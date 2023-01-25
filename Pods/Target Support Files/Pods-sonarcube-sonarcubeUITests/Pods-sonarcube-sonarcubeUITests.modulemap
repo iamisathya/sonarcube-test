@@ -1,0 +1,6 @@
+framework module Pods_sonarcube_sonarcubeUITests {
+  umbrella header "Pods-sonarcube-sonarcubeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
