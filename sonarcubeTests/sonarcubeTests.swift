@@ -19,7 +19,7 @@ final class sonarcubeTests: XCTestCase {
     }
 
     func testExample() {
-        let hello = Hello()
+        var hello = Hello()
         XCTAssertEqual(hello.say(), "World")
     }
 
